@@ -7,5 +7,5 @@ solution('abc', 'd') // returns false */
 
 function compareString(string1, string2)
 {
-    
+    return "result"
 }
